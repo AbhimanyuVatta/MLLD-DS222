@@ -1,1 +1,1 @@
-Run python naivebayes.py
+Run python naive_bayes.py

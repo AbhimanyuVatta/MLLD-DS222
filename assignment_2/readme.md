@@ -1,3 +1,6 @@
+PROBLEM STATEMENT: Given DBPedia training dataset, it is required to implement and evaluate a L2-regularized logistic regression in the standalone and distributed setting using Parameter Server.
+
+
 USAGE
 
 Local Logistic Regression -
